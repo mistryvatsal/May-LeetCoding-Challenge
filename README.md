@@ -8,7 +8,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 ### Week-1
 
 * [1_First_Bad_Version](Week1/1_First_Bad_Version)
-
+* [2_Jewels_And_Stones](Week1/2_Jewels_And_Stones)
 
 ## Contributing
 
