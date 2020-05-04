@@ -10,6 +10,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 * [1_First_Bad_Version](Week1/1_First_Bad_Version)
 * [2_Jewels_And_Stones](Week1/2_Jewels_And_Stones)
 * [3_Ransom_Note](Week1/3_Ransom_Note)
+* [4_Number_Complement](Week1/4_Number_Complement)
 
 
 ## Contributing
