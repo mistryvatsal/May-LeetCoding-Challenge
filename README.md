@@ -12,6 +12,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 * [3_Ransom_Note](Week1/3_Ransom_Note)
 * [4_Number_Complement](Week1/4_Number_Complement)
 * [5_First_Unique_Character_in_a_String](Week1/5_First_Unique_Character_in_a_String)
+* [6_Majority_Element](Week1/6_Majority_Element)
 
 
 ## Contributing
