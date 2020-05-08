@@ -2,7 +2,7 @@
 A repository containing my solution for the problems in the May LeetCoding Challenge on Leetcode.com
 
 
-*Code available in : Python, C++ and ~~Javascript~~. (Not really enjoying coding in javascript, if I have to deal with some datastrcutures. Soon will get going with that too. I'll try to write in more languages. Open for contributers to add up to this repo.)* :v:
+*Code available in : Python, C++ and ~~Javascript~~. (Not really enjoying coding in javascript, if I have to deal with some datastructures. Soon will get going with that too. I'll try to write in more languages. Open for contributers to add up to this repo.)* :v:
 
 
 ### Week-1
