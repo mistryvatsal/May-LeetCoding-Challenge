@@ -19,6 +19,8 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 ### Week-2
 
 * [1_Check_If_It_Is_A_Straight_Line](Week2/1_Check_If_It_Is_A_Straight_Line)
+
+
 ## Contributing
 
 Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. :smiley:
