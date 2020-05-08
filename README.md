@@ -13,6 +13,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 * [4_Number_Complement](Week1/4_Number_Complement)
 * [5_First_Unique_Character_in_a_String](Week1/5_First_Unique_Character_in_a_String)
 * [6_Majority_Element](Week1/6_Majority_Element)
+* [_7_Cousins_In_Binary_Tree](Week1/7_Cousins_In_Binary_Tree)
 
 
 ## Contributing
