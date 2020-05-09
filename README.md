@@ -19,7 +19,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 ### Week-2
 
 * [1_Check_If_It_Is_A_Straight_Line](Week2/1_Check_If_It_Is_A_Straight_Line)
-
+* [2_Valid_Perfect_Square](Week2/2_Valid_Perfect_Square)
 
 ## Contributing
 
