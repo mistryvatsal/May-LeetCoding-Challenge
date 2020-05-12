@@ -22,6 +22,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 * [2_Valid_Perfect_Square](Week2/2_Valid_Perfect_Square)
 * [3_Find_The_Town_Judge](Week2/3_Find_The_Town_Judge)
 * [4_Flood_Fill](Week2/4_Flood_Fill)
+* [5_Single_Element_In_A_Sorted_Array](Week2/5_Single_Element_In_A_Sorted_Array)
 
 ## Contributing
 
