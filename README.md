@@ -24,6 +24,7 @@ A repository containing my solution for the problems in the May LeetCoding Chall
 * [4_Flood_Fill](Week2/4_Flood_Fill)
 * [5_Single_Element_In_A_Sorted_Array](Week2/5_Single_Element_In_A_Sorted_Array)
 * [6_Remove_K_Digits](Week2/6_Remove_K_Digits)
+* [7_Implement_Trie(Prefix_Tree)](Week2/7_Implement_Trie(Prefix_Tree))
 
 ## Contributing
 
